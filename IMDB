@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <movies>
+        <movie>
+            <title>The Shawshank Redemption</title>
+             <genre>Crime, Drama</genre>
+            <releaseYear>1994</releaseYear>
+            <director>
+                <name>Frank Darabont</name>
+            </director>
+            <mainActors>
+                <name>Tim Robbins</name>
+                <name>Morgan Freeman</name>
+                <name>Bob Gunton</name>
+                <name>William Sadler</name>
+            </mainActors>
+            <gross>
+                <dollars>$28.34M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Godfather</title>
+            <genre>Crime, Drama</genre>
+            <releaseYear>1972</releaseYear>
+            <director>
+                <name>Francis Ford Coppola</name>
+            </director>
+            <mainActors>
+                <name>Marlon Brando</name>
+                <name>Al Pacino</name>
+                <name>James Caan</name>
+                <name>Diane Keaton</name>
+            </mainActors>
+            <gross>
+                <dollars>$134.97M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Dark Knight</title>
+            <genre>Action, Drama</genre>
+            <releaseYear>2008</releaseYear>
+            <director>
+                <name>Christopher Nolan</name>
+            </director>
+            <mainActors>
+                <name>Christian Bale</name>
+                <name>Heath Ledger</name>
+                <name>Aaron Eckhart</name>
+                <name>Michael Caine</name>
+            </mainActors>
+            <gross>
+                <dollars>$534.86M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Godfather: Part II</title>
+            <genre>Crime, Drama</genre>
+            <releaseYear>1974</releaseYear>
+            <director>
+                <name>Francis Ford Coppola</name>
+            </director>
+            <mainActors>
+                <name>Al Pacino</name>
+                <name>Robert De Niro</name>
+                <name>Robert Duvall</name>
+                <name>Diane Keaton</name>
+            </mainActors>
+            <gross>
+                <dollars>$57.30M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Pulp Fiction</title>
+            <genre>Crime, Drama</genre>
+            <releaseYear>1994</releaseYear>
+            <director>
+                <name>Quentin Tarantino</name>
+            </director>
+            <mainActors>
+                <name>John Travolta</name>
+                <name>Uma Thurman</name>
+                <name>Samuel L. Jackson</name>
+                <name>Bruce Willis</name>
+            </mainActors>
+            <gross>
+                <dollars>$107.93M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Schindler's List</title>
+            <genre>Biography, Drama, History</genre>
+            <releaseYear>1993</releaseYear>
+            <director>
+                <name>Steven Spielberg</name>
+            </director>
+            <mainActors>
+                <name>Liam Neeson</name>
+                <name>Ralph Fiennes</name>
+                <name>Ben Kingsley</name>
+                <name>Caroline Goodall</name>
+            </mainActors>
+            <gross>
+                <dollars>$96.07M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Lord of the Rings: The Return of the King</title>
+            <genre>Adventure, Drama, Fantasy</genre>
+            <releaseYear>2003</releaseYear>
+            <director>
+                <name>Peter Jackson</name>
+            </director>
+            <mainActors>
+                <name>Elijah Wood</name>
+                <name>Viggo Mortensen</name>
+                <name>Ian McKellen</name>
+                <name>Orlando Bloom</name>
+            </mainActors>
+            <gross>
+                <dollars>$377.85M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>12 Angry Men</title>
+            <genre>Crime, Drama</genre>
+            <releaseYear>1957</releaseYear>
+            <director>
+                <name>Sidney Lumet</name>
+            </director>
+            <mainActors>
+                <name>Henry Fonda</name>
+                <name>Lee J. Cobb</name>
+                <name>Martin Balsam</name>
+                <name>John Fiedler</name>
+            </mainActors>
+            <gross>
+                <dollars>$?</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Good, the Bad and the Ugly</title>
+            <genre>Western</genre>
+            <releaseYear>1966</releaseYear>
+            <director>
+                <name>Sergio Leone</name>
+            </director>
+            <mainActors>
+                <name>Clint Eastwood</name>
+                <name>Eli Wallach</name>
+                <name>Lee Van Cleef</name>
+                <name>Aldo Giuffre</name>
+            </mainActors>
+            <gross>
+                <dollars>$6.10M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Lord of the Rings: The Fellowship of the Ring</title>
+            <genre>Adventure, Drama, Fantasy</genre>
+            <releaseYear>2001</releaseYear>
+            <director>
+                <name>Peter Jackson</name>
+            </director>
+            <mainActors>
+                <name>Elijah Wood</name>
+                <name>Ian McKellen</name>
+                <name>Orlando Bloom</name>
+                <name>Sean Bean</name>
+            </mainActors>
+            <gross>
+                <dollars>$315.54M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Inception</title>
+            <genre>Action, Adventure, Sci-Fi</genre>
+            <releaseYear>2010</releaseYear>
+            <director>
+                <name>Christopher Nolan</name>
+            </director>
+            <mainActors>
+                <name>Leonardo DiCaprio</name>
+                <name>Joseph Gordon-Levitt</name>
+                <name>Ellen Page</name>
+                <name>Ken Watanabe</name>
+            </mainActors>
+            <gross>
+                <dollars>$292.58M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Forest Gump</title>
+            <genre>Drama, Romance</genre>
+            <releaseYear>1994</releaseYear>
+            <director>
+                <name>Robert Zemeckis</name>
+            </director>
+            <mainActors>
+                <name>Tom Hanks</name>
+                <name>Robin Wright</name>
+                <name>Gary Sinise</name>
+                <name>Sally Field</name>
+            </mainActors>
+            <gross>
+                <dollars>$330.25M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Fight Club</title>
+            <genre>Drama</genre>
+            <releaseYear>1999</releaseYear>
+            <director>
+                <name>David Fincher</name>
+            </director>
+            <mainActors>
+                <name>Brad Pitt</name>
+                <name>Edward Norton</name>
+                <name>Meat Loaf</name>
+                <name>Zach Grenier</name>
+            </mainActors>
+            <gross>
+                <dollars>$37.03M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Star Wars: Episode V - The Empire Strikes Back</title>
+            <genre>Action, Adventure, Fantasy</genre>
+            <releaseYear>1980</releaseYear>
+            <director>
+                <name>Irvin Kershner</name>
+            </director>
+            <mainActors>
+                <name>Mark Hamill</name>
+                <name>Harrison Ford</name>
+                <name>Carrie Fisher</name>
+                <name>Billy Dee Williams</name>
+            </mainActors>
+            <gross>
+                <dollars>$290.48M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Coco</title>
+            <genre>Animation, Adventure, Comedy</genre>
+            <releaseYear>2017</releaseYear>
+            <director>
+                <name>Lee Unkrich</name>
+                <name>Adrian Molina</name>
+            </director>
+            <mainActors>
+                <name>Anthony Gonzalez</name>
+                <name>Gael Garcia Bernal</name>
+                <name>Benjamin Bratt</name>
+                <name>Alanna Ubach</name>
+            </mainActors>
+            <gross>
+                <dollars>$200.86M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Star Wars: Episode IV - A New Hope</title>
+            <genre>Action, Adventure, Fantasy</genre>
+            <releaseYear>1977</releaseYear>
+            <director>
+                <name>George Lucas</name>
+            </director>
+            <mainActors>
+                <name>Mark Hamill</name>
+                <name>Harrison Ford</name>
+                <name>Carrie Fisher</name>
+                <name>Alec Guinness</name>
+            </mainActors>
+            <gross>
+                <dollars>$322.74M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>Goodfellas</title>
+            <genre>Biography, Crime, Drama</genre>
+            <releaseYear>1990</releaseYear>
+            <director>
+                <name>Martin Scorsese</name>
+            </director>
+            <mainActors>
+                <name>Robert De Niro</name>
+                <name>ray Liotta</name>
+                <name>Joe Pesci</name>
+                <name>Lorraine Bracco</name>
+            </mainActors>
+            <gross>
+                <dollars>$46.84M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Matrix</title>
+            <genre>Action, Sci-Fi</genre>
+            <releaseYear>1999</releaseYear>
+            <director>
+                <name>Lana Wachowski</name>
+                <name>Lilly Wachowski</name>
+            </director>
+            <mainActors>
+                <name>Keanu Reeves</name>
+                <name>Laurence Fishburne</name>
+                <name>Carrie-Anne Moss</name>
+                <name>Hugo Weaving</name>
+            </mainActors>
+            <gross>
+                <dollars>$171.48M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>The Lord of the Rings: The Two Towers</title>
+            <genre>Adventure, Drama, Fantasy</genre>
+            <releaseYear>2002</releaseYear>
+            <director>
+                <name>Peter Jackson</name>
+            </director>
+            <mainActors>
+                <name>Elijah Wood</name>
+                <name>Ian McKellen</name>
+                <name>Viggo Mortensen</name>
+                <name>Orlando Bloom</name>
+            </mainActors>
+            <gross>
+                <dollars>$342.55M</dollars>
+            </gross>
+        </movie>
+        <movie>
+            <title>One Flew Over the Cuckoo's Nest</title>
+            <genre>Drama</genre>
+            <releaseYear>1975</releaseYear>
+            <director>
+                <name>Milos Forman</name>
+            </director>
+            <mainActors>
+                <name>Jack Nicholson</name>
+                <name>Louise Fletcher</name>
+                <name>Michael Berryman</name>
+                <name>Peter Brocco</name>
+            </mainActors>
+            <gross>
+                <dollars>$112.00M</dollars>
+            </gross>
+        </movie>
+    </movies>
+    <tvSeries>
+        <show>
+            <title>Band of Brothers</title>
+            <genre>Action, Drama, History</genre>
+            <releaseYear>2001</releaseYear>
+            <mainActors>
+                <name>Scott Grimes</name>
+                <name>Damian Lewis</name>
+                <name>Ron Livingston</name>
+                <name>Shane Taylor</name>
+            </mainActors>
+            <episodes>10</episodes>
+        </show>
+        <show>
+            <title>Game of Thrones</title>
+            <genre>Action, Adventure, Drama</genre>
+            <releaseYear>2011</releaseYear>
+            <mainActors>
+                <name>Emilia Clarke</name>
+                <name>Peter Dinklage</name>
+                <name>Kit Harington</name>
+                <name>Lena Headey</name>
+            </mainActors>
+            <episodes>73</episodes>
+        </show>
+        <show>
+            <title>Breaking Bad</title>
+            <genre>Crime, Drama, Thriller</genre>
+            <releaseYear>2008</releaseYear>
+            <mainActors>
+                <name>Bryan Cranston</name>
+                <name>Aaron Paul</name>
+                <name>Anna Gunn</name>
+                <name>Betsy Brandt</name>
+            </mainActors>
+            <episodes>2008</episodes>
+        </show>
+        <show>
+            <title>The Wire</title>
+            <genre>Crime, Drama, Thriller</genre>
+            <releaseYear>2002</releaseYear>
+            <mainActors>
+                <name>Dominic West</name>
+                <name>Lance Reddick</name>
+                <name>Sonja Sohn</name>
+                <name>Wendell Pierce</name>
+            </mainActors>
+            <episodes>60</episodes>
+        </show>
+        <show>
+            <title>Rick and Morty</title>
+            <genre>Animation, Adventure, Comedy</genre>
+            <releaseYear>2013</releaseYear>
+            <mainActors>
+                <name>Chris Parnell</name>
+                <name>Spencer Grammer</name>
+                <name>Sarah Chalke</name>
+                <name>Justin Roiland</name>
+            </mainActors>
+            <episodes>32</episodes>
+        </show>
+        <show>
+            <title>Sherlock</title>
+            <genre>Crime, Drama, Mystery</genre>
+            <releaseYear>2010</releaseYear>
+            <mainActors>
+                <name>Benedict Cumberbatch</name>
+                <name>Martin Freeman</name>
+                <name>Una Stubbs</name>
+                <name>Rupert Graves</name>
+            </mainActors>
+            <episodes>15</episodes>
+        </show>
+        <show>
+            <title>The Sopranos</title>
+            <genre>Crime, Drama</genre>
+            <releaseYear>1999</releaseYear>
+            <mainActors>
+                <name>James Gandolfini</name>
+                <name>Lorraine Bracco</name>
+                <name>Edie Falco</name>
+                <name>Michael Imperioli</name>
+            </mainActors>
+            <episodes>86</episodes>
+        </show>
+        <show>
+            <title>Firefly</title>
+            <genre>Adventure, Drama, Sci-Fi</genre>
+            <releaseYear>2002</releaseYear>
+            <mainActors>
+                <name>Nathan Fillion</name>
+                <name>Gina Torres</name>
+                <name>Alan Tudyk</name>
+                <name>Morena Baccarin</name>
+            </mainActors>
+            <episodes>14</episodes>
+        </show>
+        <show>
+            <title>Westworld</title>
+            <genre>Drama, Mystery, Sci-Fi</genre>
+            <releaseYear>2016</releaseYear>
+            <mainActors>
+                <name>Evan Rachel Wood</name>
+                <name>Jeffrey Wright</name>
+                <name>Ed Harris</name>
+                <name>Thandie Newton</name>
+            </mainActors>
+            <episodes>20</episodes>
+        </show>
+        <show>
+            <title>The Twilight Zone</title>
+            <genre>Fantasy, Horror, Mystery</genre>
+            <releaseYear>1959</releaseYear>
+            <mainActors>
+                <name>Rod Serling</name>
+                <name>Robert McCord</name>
+                <name>Jay Overholts</name>
+                <name>Vaughn Taylor</name>
+            </mainActors>
+            <episodes>156</episodes>
+        </show>
+        <show>
+            <title>Stranger Things</title>
+            <genre>Drama, Fantasy, Horror</genre>
+            <releaseYear>2016</releaseYear>
+            <mainActors>
+                <name>Millie Bobby Brown</name>
+                <name>Finn Wolfhard</name>
+                <name>Winona Ryder</name>
+                <name>David Harbour</name>
+            </mainActors>
+            <episodes>25</episodes>
+        </show>
+        <show>
+            <title>Friends</title>
+            <genre>Comedy, Romance</genre>
+            <releaseYear>1994</releaseYear>
+            <mainActors>
+                <name>Jennifer Aniston</name>
+                <name>Courteney Cox</name>
+                <name>Lisa Kudrow</name>
+                <name>Matt LeBlanc</name>
+            </mainActors>
+            <episodes>236</episodes>
+        </show>
+        <show>
+            <title>Fargo</title>
+            <genre>Crime, Drama, Thriller</genre>
+            <releaseYear>2014</releaseYear>
+            <mainActors>
+                <name>Billy Bob Thornton</name>
+                <name>Martin Freeman</name>
+                <name>Allison Tolman</name>
+                <name>Colin Hanks</name>
+            </mainActors>
+            <episodes>30</episodes>
+        </show>
+        <show>
+            <title>Taboo</title>
+            <genre>Drama, Mystery, Thriller</genre>
+            <releaseYear>2017</releaseYear>
+            <mainActors>
+                <name>Tom Hardy</name>
+                <name>David Hayman</name>
+                <name>Jonathan Pryce</name>
+                <name>Oona Chaplin</name>
+            </mainActors>
+            <episodes>10</episodes>
+        </show>
+        <show>
+            <title>Fullmetal Alchemist: Brotherhood</title>
+            <genre>Animation, Action, Adventure</genre>
+            <releaseYear>2009</releaseYear>
+            <mainActors>
+                <name>Kent Williams</name>
+                <name>Iemasa Kayumi</name>
+                <name>Muriel Hofmann</name>
+                <name>Lili Troncale</name>
+            </mainActors>
+            <episodes>68</episodes>
+        </show>
+        <show>
+            <title>Batman: The Animated Series</title>
+            <genre>Animation, Action, Adventure</genre>
+            <releaseYear>1992</releaseYear>
+            <mainActors>
+                <name>Kevin Conroy</name>
+                <name>Loren Lester</name>
+                <name>Efrem Zimbalist Jr.</name>
+                <name>Robert Hastings</name>
+            </mainActors>
+            <episodes>85</episodes>
+        </show>
+        <show>
+            <title>House of Cards</title>
+            <genre>Drama</genre>
+            <releaseYear>2013</releaseYear>
+            <mainActors>
+                <name>Kevin Spacey</name>
+                <name>Michel Gill</name>
+                <name>Robin Wright</name>
+                <name>Kate Mara</name>
+            </mainActors>
+            <episodes>78</episodes>
+        </show>
+        <show>
+            <title>Avatar: The Last Airbender</title>
+            <genre>Animation, Action, Adventure</genre>
+            <releaseYear>2003</releaseYear>
+            <mainActors>
+                <name>Dee Bradley Baker</name>
+                <name>Zach Tyler</name>
+                <name>Mae Whitman</name>
+                <name>Jack De Sena</name>
+            </mainActors>
+            <episodes>66</episodes>
+        </show>
+        <show>
+            <title>Death Note</title>
+            <genre>Animation, Crime, Drama</genre>
+            <releaseYear>2006</releaseYear>
+            <mainActors>
+                <name>Mamoru Miyano</name>
+                <name>Brad Swaile</name>
+                <name>Vincent Tong</name>
+                <name>Ryo Naito</name>
+            </mainActors>
+            <episodes>37</episodes>
+        </show>
+        <show>
+            <title>Cowboy Bebop</title>
+            <genre>Animation, Action, Adventure</genre>
+            <releaseYear>1998</releaseYear>
+            <mainActors>
+                <name>Koichi Yamadera</name>
+                <name>Unsho Ishizuka</name>
+                <name>Megumi Hayashibara</name>
+                <name>Steve Blum</name>
+            </mainActors>
+            <episodes>28</episodes>
+        </show>
+    </tvSeries>
+</library>
